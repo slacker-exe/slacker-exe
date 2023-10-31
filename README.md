@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slacker-exe
-- 👀 I’m interested in web devlopment and UI/UX
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on web app or website projects
 - 📫 How to reach me ...
 
 <!---
